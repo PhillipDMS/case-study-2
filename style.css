@@ -1,0 +1,39 @@
+ol h5{
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+}
+span{
+    color: rgb(183, 29, 207);
+    font-size: 16px;
+}
+li img{
+    border-radius: 20px;
+}
+.test_image_and_result{
+    background: grey;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 15px;
+    box-shadow: 5px 5px 28px grey;
+}
+b{
+    color: purple;
+}
+.mini_result{
+    text-align: center;
+    color: white;
+}
+h4{
+    font-size: 20px;
+}
+.copy_right_footer{
+    background-color: white;
+    color: grey;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    font-size: 18;
+}
